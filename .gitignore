@@ -1,0 +1,8 @@
+*.txt
+git will ingore txt
+*.ppt
+it will ignore the ppt
+
+note the files should be listed in .gitinore
+*.text
+
